@@ -1,5 +1,15 @@
 ## 👋 Hi there! I'm CIK
 
+Digital enthusiasts
+
+Life is like a journey against the current, and I am but a traveler. I only wish to walk with composure and not waste time.
+
+On this journey from which there is no turning back, we are all travelers carrying our own bags, drifting in the long river of time.
+
+Welcome to my blog. [let’s dive in!](https://blog.cikcc.com/)
+
+[Learn more about me](https://cikcc.com/)
+
 <!--
 **cikheo/cikheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
